@@ -12,6 +12,7 @@
   "dependencies": {
     "@koa/router": "^10.1.1",
     "koa": "^2.13.4",
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.16",
+    "koa-compose": "^4.1.0"
   }
 }
